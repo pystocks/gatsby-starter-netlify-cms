@@ -2,11 +2,11 @@
 templateKey: index-page
 title: Command Your Destiny
 image: /img/home-jumbotron.jpg
-heading: dfdfdfdfddfdfd
+heading: Armori Difference
 subheading: 'Make more, Create more, Maintain control'
 mainpitch:
-  title: Armori
-  description: dfdf
+  title: Your Music
+  description: 'Our expertise '
 description: >-
   Armori is dedicated to helping you achieve your goals in the music industry.
   Our background includes album release rollouts, brand partnerships, concert
@@ -29,11 +29,9 @@ intro:
         make every dollar on views, streams, and listens on every platform. 
     - image: /img/stamp (1).png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We work to bring you additional revenue in the form of brand
+        partnerships, sync licensing, paid concert  performances and other
+        avenunes.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
