@@ -20,9 +20,9 @@ intro:
         next level while you maintain ownership. 
     - image: /img/headphone (1).png
       text: >
-        Build your brand. With a dedicated warehouse and T-Shirt printing
-        machine, we have the infrastructure to help grow relationships with your
-        fans.
+        Build your brand. With a dedicated warehouse and apparel creation
+        capabilities, we have the infrastructure to help grow relationships with
+        your fans.
     - image: /img/data-collection (1).png
       text: >
         Are you missing royalties? Our digital monetization team will ensure you
