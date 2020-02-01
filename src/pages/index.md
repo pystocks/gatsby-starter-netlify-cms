@@ -1,43 +1,32 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Command Your Destiny
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: dfdfdfdfddfdfd
+subheading: 'Make more, Create more, Maintain control'
 mainpitch:
-  title: Why Armori
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Armori
+  description: dfdf
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Armori is dedicated to helping you achieve your goals in the music industry.
+  Our background includes album release rollouts, brand partnerships, concert
+  promotions, merchandise, and advancing/acquiring catalogs in excess of 1+
+  million. 
 intro:
   blurbs:
     - image: /img/money (1).png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Fund your next project. We offer the money to take your career to the
+        next level while you maintain ownership. 
     - image: /img/headphone (1).png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Build your brand. With a dedicated warehouse and T-Shirt printing
+        machine, we have the infrastructure to help grow relationships with your
+        fans.
     - image: /img/data-collection (1).png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Are you missing royalties? Our digital monetization team will ensure you
+        make every dollar on views, streams, and listens on every platform. 
     - image: /img/stamp (1).png
       text: >
         We believe that good coffee has the power to bring people together.
